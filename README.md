@@ -1,3 +1,7 @@
+# Dune Queries
+
+Repository containing Gnosis related dune queries
+
 ## Requirements
 Python +3.x
 
